@@ -11,8 +11,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot tokenini va parolni belgilash
-BOT_TOKEN = '52712075960051'
-PASSWORD = 'parol_o\'rniga_haqiqiy_parolni_kir'  # Parolni o'rnating
+BOT_TOKEN = '8108986276:AAHHgfWZBw2euWTXPXcOnSqd97HsKYYQ1hc'
+PASSWORD = '52712075960051'  # Parolni o'rnating
 BOT_CREATED_TIME = datetime.now()
 
 # Kanallar ro'yxati
