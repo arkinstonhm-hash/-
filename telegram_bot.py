@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 # Bot tokenini va parolni belgilash
 BOT_TOKEN = '8108986276:AAHHgfWZBw2euWTXPXcOnSqd97HsKYYQ1hc'
-PASSWORD = '52712075960051'  # Parolni o'rnating
+PASSWORD = '1991200020071227'  # Parolni o'rnating
 BOT_CREATED_TIME = datetime.now()
 
 # Kanallar ro'yxati
