@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ⚠️ Tokeningizni shu yerga yozing (yoki BOT_TOKEN nomli environment variable orqali bering)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "TOKENINGIZNI_BU_YERGA_QOYING")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7975122448:AAE3HVK3hB81Yf6GhQNNhpGsfXo-hV4DMZ4")
 
 DOWNLOAD_DIR = "downloads"
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
